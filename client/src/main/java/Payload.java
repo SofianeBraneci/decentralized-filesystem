@@ -1,5 +1,4 @@
 import java.io.Serializable;
-import java.nio.file.WatchEvent;
 
 public class Payload implements Serializable {
     private String hash;
